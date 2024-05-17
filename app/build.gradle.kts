@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.acaminal.elviatjant"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.acaminal.elviatjant"
